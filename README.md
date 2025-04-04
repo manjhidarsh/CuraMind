@@ -1,22 +1,22 @@
 # 🩺 CuraMind - AI Medical Assistant  
 
-## **Multimodal AI for Real-Time Medical Diagnosis**  
+## Multimodal AI for Real-Time Medical Diagnosis 
 
-CuraMind is an AI-powered **medical assistant** that integrates **speech, text, and vision** models to assist in medical diagnosis. It leverages state-of-the-art AI models for **speech recognition, image analysis, and intelligent medical responses**, enabling **real-time patient interactions**.  
+CuraMind is an AI-powered medical assistant that integrates speech, text, and vision models to assist in medical diagnosis. It leverages state-of-the-art AI models for speech recognition, image analysis, and intelligent medical responses, enabling real-time patient interactions.  
 
 ---
 
 ## 🚀 Features  
 
-### ✅ **Multimodal AI Capabilities**  
-- **Speech-to-Text (STT)** – Uses **OpenAI Whisper** for accurate voice transcription.  
-- **Vision Analysis** – Integrates **Llama 3 Vision** for analyzing medical images.  
-- **AI Medical Assistant** – Powered by **Groq LLM** for intelligent, real-time responses.  
-- **Text-to-Speech (TTS)** – Uses **ElevenLabs** to generate lifelike speech output.  
+### ✅ Multimodal AI Capabilities
+- Speech-to-Text (STT) – Uses OpenAI Whisper for accurate voice transcription.  
+- Vision Analysis– Integrates Llama 3 Vision for analyzing medical images.  
+- AI Medical Assistant – Powered by Groq LLM for intelligent, real-time responses.  
+- Text-to-Speech (TTS) – Uses ElevenLabs to generate lifelike speech output.  
 
-### ⚡ **Optimized Performance**  
-- **40% Faster Response Time** – Groq API optimizations improve inference speed.  
-- **Interactive UI** – Built with **Gradio** for seamless patient-doctor interactions.  
+### ⚡ Optimized Performance 
+- 40% Faster Response Time – Groq API optimizations improve inference speed.  
+- Interactive UI – Built with Gradio for seamless patient-doctor interactions.  
 
 ---
 
@@ -30,13 +30,15 @@ Ensure you have the following installed:
 
 ### 🔧 Installation  
 
-1️⃣ **Clone the Repository**  
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/manjhidarsh/CuraMind.git
 cd CuraMind
 
-2️⃣ **Install Dependencies**
+2️⃣ Install Dependencies
 pipenv install
+
+---
 
 ## 🎯 Usage
 
@@ -49,4 +51,12 @@ python gradio_app.py
 - Upload a medical image → Llama 3 Vision provides insights.
 - Get AI-powered diagnosis from Groq LLM.
 - Hear responses via ElevenLabs TTS.
+
+
+
+
+
+
+
+
 
