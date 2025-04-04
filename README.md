@@ -1,3 +1,5 @@
+# 🩺 CuraMind - AI Medical Assistant  
+
 ## **Multimodal AI for Real-Time Medical Diagnosis**  
 
 CuraMind is an AI-powered **medical assistant** that integrates **speech, text, and vision** models to assist in medical diagnosis. It leverages state-of-the-art AI models for **speech recognition, image analysis, and intelligent medical responses**, enabling **real-time patient interactions**.  
