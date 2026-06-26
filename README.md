@@ -21,12 +21,6 @@ CuraMind is a cutting-edge, multimodal AI-powered medical assistant designed to 
 
 ---
 
-## Demo
-
-https://github.com/manjhidarsh/CuraMind/assets/demo.gif <!-- Replace with actual demo link or remove if not available -->
-
----
-
 ## Getting Started
 
 ### Prerequisites
